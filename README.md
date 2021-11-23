@@ -31,6 +31,7 @@ This mod is created for Zick06 by luisch444 my discord: [discord](https://discor
 ### carefulBreak [class](/src/main/java/xyz/luisch444/carpet/mixin/BlockMixin.java)
 
 > coppied from epsilon carpet(1.16) https://github.com/EpsilonSMP/Epsilon-Carpet
+> 
 > Use: /carpet {setdefault} carefulBreak ("never", "always", "sneaking", "no-sneaking")
 >
 > Places the mined block in the player inventory when sneaking.
